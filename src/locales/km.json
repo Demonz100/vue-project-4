@@ -1,0 +1,20 @@
+{
+  "main": {
+    "title": "កាហេ្វពិសេស"
+  },
+  "nav": {
+    "title": "កាហេ្វ",
+    "home": "កាហ្វេ",
+    "about": "អំពី",
+    "en": "English",
+    "km": "ខ្មែរ"
+  },
+  "about": {
+    "title": "អំពីគម្រោងនេះ",
+    "desc": "គម្រោងនេះដេីម្បីរៀនប្តូរភាសា​ជាមួយ ​Vue I18n Routing​ State Management​ និង Local Storage",
+    "build": "ប្រី Vue និង Vue I18N"
+  },
+  "card": {
+    "like": "មិនទាន់មាន ❤️ | {n} នាក់ ❤️ | {n} នាក់ ❤️"
+  }
+}

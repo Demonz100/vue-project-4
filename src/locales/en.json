@@ -1,0 +1,20 @@
+{
+  "main": {
+    "title": "International Gourmet Coffees"
+  },
+  "nav": {
+    "title": "All About Cafe",
+    "home": "Home",
+    "about": "About",
+    "en": "English",
+    "km": "ខ្មែរ"
+  },
+  "about": {
+    "title": "About This Project",
+    "desc": "This project is to practice the localization with Vue I18n and Routing with a little state management and local storage practice",
+    "build": "Build With Vue and Vue I18n"
+  },
+  "card": {
+    "like": "Nobody ❤️ this yet | {n} person ❤️ this | {n} people ❤️ this"
+  }
+}
